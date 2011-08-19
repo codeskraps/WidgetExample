@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="widget_text">Display text</string>
+	<string name="app_name">Widget Example</string>
+	<string name="display_name">Display Widget</string>
+	<string name="button_widget">Button Widget</string>
+</resources>
